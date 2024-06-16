@@ -46,8 +46,32 @@ you can find the flower's data included in the [repo](https://github.com/AnanSol
 ## 6- data visualization
     - reading raw data can be sometimes challenging , so visualizing this data will be much easier to read.
 
-using counting plot
+using counting plot to show the flowers classes data count.
 ![alt text](screenshots/iris-6-count-graph.PNG)
 
-using scatter plot
-![alt text](iris-6-scatter-graph.PNG)
+using scatter plot to show a comparison between the petal width and length for each flower class
+
+![alt text](screenshots/iris-6-scatter-graph.PNG)
+
+using also scatter plot to show a comparison between the sepal width and length for each flower class
+![alt text](screenshots/iris-6-scatter-sepal-graph.PNG)
+
+## 7- Categorizing the data to prepare it for training .
+- our dataframe consist of data about 3 Labels/classes of Iris flowers 
+    > Iris Versicolor, Iris Setosa, Iris Virginca  (classes/Labels)
+
+- also four features for each class 
+    > Petal length , Petal width
+
+    >Sepal Length, Sepal width
+
+![alt text](<screenshots/7- classes & features.PNG>)
+
+## 8- dividing the data we have into traning data and testing data
+    - we need to divide the data we have into two parts 
+        - data used for training the model to classify
+        - data used to test the model if the classification is good
+
+        the training data will be 80% of the whole data, and the testing data will be 20% of the whole data.
+
+    
