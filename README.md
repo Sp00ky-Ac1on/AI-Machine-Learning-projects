@@ -31,6 +31,7 @@ you can find the flower's data included in the [repo](https://github.com/AnanSol
 
 ## 3- Add column headers to the dataframe
  - adding headers to facilitate dataframe reading.
+
 ![alt text](screenshots/iris-3.PNG)
 
 ## 4- check null data exists
@@ -67,11 +68,18 @@ using also scatter plot to show a comparison between the sepal width and length 
 
 ![alt text](<screenshots/7- classes & features.PNG>)
 
+features
+![alt text](<screenshots/7-2 features.PNG>)
+
+label
+![alt text](<screenshots/7-3 label.PNG>)
+
 ## 8- dividing the data we have into traning data and testing data
-    - we need to divide the data we have into two parts 
-        - data used for training the model to classify
-        - data used to test the model if the classification is good
+- we need to divide the data we have into two parts 
+    > data used for training the model to classify
 
-        the training data will be 80% of the whole data, and the testing data will be 20% of the whole data.
+    > data used to test the model if the classification is good
 
-    
+     the training data will be 80% of the whole data, and the testing data will be 20% of the whole data.
+
+
