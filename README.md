@@ -27,11 +27,11 @@ you can find the flower's data included in the [repo](https://github.com/AnanSol
 
  - add the following code to open, read the comma separated data and save it into a dataframe
 
-    ![alt text](screenshots/iris-2.PNG)
+![alt text](screenshots/iris-2.PNG)
 
 ## 3- Add column headers to the dataframe
  - adding headers to facilitate dataframe reading.
-    ![alt text](screenshots/iris-3.PNG)
+![alt text](screenshots/iris-3.PNG)
 
 ## 4- check null data exists
     - you need to check if there are any null, empty or any missing data.
@@ -46,5 +46,8 @@ you can find the flower's data included in the [repo](https://github.com/AnanSol
 ## 6- data visualization
     - reading raw data can be sometimes challenging , so visualizing this data will be much easier to read.
 
+using counting plot
 ![alt text](screenshots/iris-6-count-graph.PNG)
 
+using scatter plot
+![alt text](iris-6-scatter-graph.PNG)
