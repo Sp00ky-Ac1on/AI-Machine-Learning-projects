@@ -23,9 +23,18 @@ you can find the flower's data included in the [repo](https://github.com/AnanSol
 
 > pandas, matplotlib, seaborn, scikit-learn
 
-    ![alt text](import.PNG)
+![alt text](import.PNG)
 
- - add the following code to open and save the iris data into a dataframe
+ - add the following code to open, read the comma separated data and save it into a dataframe
 
     ![alt text](iris-2.PNG)
+
+## 3- Add column headers to the dataframe
+ - adding headers to facilitate dataframe reading.
+    ![alt text](iris-3.PNG)
+
+## 4- check null data exists
+    - you need to check if there are any null, empty or any missing data.
+
+![alt text](iris-4-empty-values.PNG)
 
