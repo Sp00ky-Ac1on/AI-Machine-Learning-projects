@@ -23,28 +23,28 @@ you can find the flower's data included in the [repo](https://github.com/AnanSol
 
 > pandas, matplotlib, seaborn, scikit-learn
 
-![alt text](images/import.PNG)
+![alt text](screenshots/import.PNG)
 
  - add the following code to open, read the comma separated data and save it into a dataframe
 
-    ![alt text](iris-2.PNG)
+    ![alt text](screenshots/iris-2.PNG)
 
 ## 3- Add column headers to the dataframe
  - adding headers to facilitate dataframe reading.
-    ![alt text](iris-3.PNG)
+    ![alt text](screenshots/iris-3.PNG)
 
 ## 4- check null data exists
     - you need to check if there are any null, empty or any missing data.
 
-![alt text](iris-4-empty-values.PNG)
+![alt text](screenshots/iris-4-empty-values.PNG)
 
 ## 5- Getting a count of how much data you have
     - it's important for you to know how much of data you are using to train and feed to your model so you can know later how to improve results accuracy.
 
-![alt text](iris-5-class-numbers.PNG)
+![alt text](screenshots/iris-5-class-numbers.PNG)
 
 ## 6- data visualization
     - reading raw data can be sometimes challenging , so visualizing this data will be much easier to read.
 
-![alt text](iris-6-count-graph.PNG)
+![alt text](screenshots/iris-6-count-graph.PNG)
 
