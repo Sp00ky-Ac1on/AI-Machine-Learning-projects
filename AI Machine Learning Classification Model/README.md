@@ -16,7 +16,7 @@ so it classify it and tell you if it was:
 
 ## 1- Collecting th needed data 
 i needed to feed my model with data so it can process it and learn from it.
-you can find the flower's data included in here [repo](https://github.com/Sp00ky-Ac1on/AI-Machine-Learning-projects/tree/main/AI%20Machine%20Learning%20Classification%20Model/Iris_data))
+you can find the flower's data included in here [repo](https://github.com/Sp00ky-Ac1on/AI-Machine-Learning-projects/tree/main/AI%20Machine%20Learning%20Classification%20Model/Iris_data)
 
 ## 2- preparing the data
  - i needed to use the following python libraries in this model
